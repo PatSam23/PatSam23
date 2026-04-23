@@ -15,7 +15,7 @@
 
 ---
 
-- 🏢 **System Engineer — Generative AI Developer @ TCS** *(Feb 2025 – Present)*  
+- 🏢 **Generative AI Developer @ TCS** *(Feb 2025 – Present)*  
   Building production-grade LLM applications for enterprise Japanese Automotive OEM clients.
 
 - 🤖 Specialized in **RAG, Agentic AI, and Multi-Agent Systems**
